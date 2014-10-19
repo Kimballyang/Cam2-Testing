@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 def square(x):
-    return (x*x)
+    return (x)
  
 def cube(x):
     return(x*x*x*x)
